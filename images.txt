@@ -6,3 +6,8 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 xhongc/music_tag_web:latest
 linuxserver/calibre-web:latest
+docker.io/library/redis:7
+docker.io/library/mariadb:11
+ghcr.io/paperless-ngx/paperless-ngx:latest
+docker.io/gotenberg/gotenberg:8.7
+docker.io/apache/tika:latest
