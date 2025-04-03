@@ -1,7 +1,6 @@
 docker.io/library/postgres:16
 docker.io/cooderl/wewe-rss-sqlite:latest
 docker.io/hectorqin/reader:latest
-docker.io/hectorqin/reader:openj9-latest:latest
 docker.io/hectorqin/remote-webview:latest
 docker.io/containrrr/watchtower:latest
 docker.io/cloudnas/clouddrive2:latest
