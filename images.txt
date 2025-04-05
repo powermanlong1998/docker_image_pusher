@@ -1,1 +1,1 @@
-docker.io/haroldli/xiaoya-tvbox:latest
+docker.io/wcjiang/reference:latest
