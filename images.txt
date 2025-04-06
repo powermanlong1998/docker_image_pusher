@@ -1,1 +1,1 @@
-docker.io/openresty/openresty/1.21.4.3-3-3-focal
+docker.io/openresty/openresty:1.21.4.3-3-3-focal
