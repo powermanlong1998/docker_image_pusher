@@ -1,1 +1,1 @@
-docker.io/wcjiang/reference:latest
+docker.io/hugomods/hugo:reg-exts-0.145.0
