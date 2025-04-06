@@ -1,1 +1,1 @@
-docker.io/caddy:latest
+docker.io/nginx:lasted
