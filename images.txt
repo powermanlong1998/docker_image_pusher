@@ -1,1 +1,1 @@
-docker.io/nginx:lasted
+docker.io/nginx:latest
