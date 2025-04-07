@@ -1,2 +1,2 @@
-docker.io/drone/drone:latest
-docker.io/drone/drone-runner-docker:latest
+docker.io/library/mysql:8
+docker.gitea.com/gitea:1.23.6
