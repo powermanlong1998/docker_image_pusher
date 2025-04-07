@@ -1,2 +1,1 @@
-docker.io/library/mysql:8
-docker.gitea.com/gitea:1.23.6
+docker.io/library/alpine:latest
