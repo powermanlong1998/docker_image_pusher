@@ -1,1 +1,2 @@
-docker.io/library/alpine:latest
+docker.io/haishanh/yacd:latest
+docker.io/dreamacro/clash:latest
