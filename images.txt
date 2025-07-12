@@ -1,2 +1,1 @@
-docker.io/haishanh/yacd:latest
-docker.io/dreamacro/clash:latest
+docker.io/jxxghp/moviepilot-v2:2.6.4
