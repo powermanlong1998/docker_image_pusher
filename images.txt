@@ -1,2 +1,1 @@
-docker.io/jxxghp/moviepilot-v2:2.6.5
- 
+docker.io/xiuxiu10201/115:latest
