@@ -1,1 +1,2 @@
- --platform linux/amd64 docker.io/kokojacket/baidu-autosave:latest
+--platform linux/arm64 kokojacket/baidu-autosave:latest
+--platform linux/arm64 xia1307/cloud189-auto-save:2.2.42
