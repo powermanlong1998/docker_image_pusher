@@ -1,7 +1,6 @@
+--platform linux/arm64 seafileltd/seafile-mc:12.0-latest
 --platform linux/arm64 mariadb:10.11
---platform linux/arm64 seafileltd/seafile-mc:13.0-latest
---platform linux/arm64 redis:8
+--platform linux/arm64 memcached:1.6.29
 --platform linux/arm64 lucaslorentz/caddy-docker-proxy:2.9-alpine
---platform linux/arm64 seafileltd/sdoc-server:2.0-latest
---platform linux/arm64 seafileltd/notification-server:13.0-latest
---platform linux/arm64 seafileltd/seafile-md-server:13.0-latest
+--platform linux/arm64 seafileltd/notification-server:12.0-latest
+--platform linux/arm64 seafileltd/sdoc-server:1.0-latest
