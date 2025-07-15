@@ -1,2 +1,7 @@
---platform linux/arm64 kokojacket/baidu-autosave:latest
---platform linux/arm64 xia1307/cloud189-auto-save:2.2.42
+--platform linux/arm64 mariadb:10.11
+--platform linux/arm64 seafileltd/seafile-mc:13.0-latest
+--platform linux/arm64 redis:8
+--platform linux/arm64 lucaslorentz/caddy-docker-proxy:2.9-alpine
+--platform linux/arm64 seafileltd/sdoc-server:2.0-latest
+--platform linux/arm64 seafileltd/notification-server:13.0-latest
+--platform linux/arm64 seafileltd/seafile-md-server:13.0-latest
